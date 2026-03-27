@@ -17,5 +17,6 @@ dependencies = [
     "polars>=1.39.3",
     "pyarrow>=23.0.1",
     "scipy>=1.17.1",
+    "scipy-stubs~=1.17.1",
     "seaborn>=0.13.2",
 ]
